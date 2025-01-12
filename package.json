@@ -1,16 +1,20 @@
 {
   "name": "bot-readme",
   "version": "1.0.0",
-  "description": "",
+  "description": "## 📖 Descrição",
   "type": "module",
   "main": "generate-readme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carla-coder",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^12.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Carla-coder"
   }
 }
